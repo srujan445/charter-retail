@@ -1,0 +1,47 @@
+DROP TABLE IF EXISTS ORDERS;
+DROP TABLE IF EXISTS CUSTOMERS;
+
+CREATE TABLE CUSTOMERS (
+  CUSTOMER_ID NUMBER(19,0) AUTO_INCREMENT,
+  FIRST_NAME VARCHAR(30) NULL,
+  LAST_NAME VARCHAR(30) NULL,
+  PHONE_NUMBER VARCHAR(20) NULL,
+  CREATE_TIMESTAMP TIMESTAMP (6) DEFAULT systimestamp NOT NULL,
+  CREATED_BY VARCHAR2(30 CHAR) NOT NULL,
+  UPDATE_TIMESTAMP TIMESTAMP (6),
+  UPDATED_BY VARCHAR2(30 CHAR),
+  CREATE_MODULE VARCHAR2(256 CHAR) DEFAULT '0' NOT NULL,
+  UPDATE_MODULE VARCHAR2(256 CHAR),
+  PRIMARY KEY(CUSTOMER_ID));
+
+INSERT INTO CUSTOMERS (FIRST_NAME, LAST_NAME, PHONE_NUMBER, CREATED_BY) VALUES
+  ('Srujan', 'Eppa', '(251)251-2511', 'EX123'),
+  ('John', 'Smith', '(314)314-3114', 'EX123'),
+  ('John', 'Doe', '(636)-636-6336', 'EX123');
+
+
+CREATE TABLE ORDERS(ORDER_ID NUMBER(19,0) AUTO_INCREMENT,
+                        CUSTOMER_ID NUMBER(19,0) NOT NULL ,
+                          AMOUNT DECIMAL(10,2) NOT NULL,
+                          PURCHASE_DATE TIMESTAMP (6) DEFAULT systimestamp NOT NULL,
+                          CREATE_TIMESTAMP TIMESTAMP (6) DEFAULT systimestamp NOT NULL,
+                          CREATED_BY VARCHAR2(30 CHAR) NOT NULL,
+                          UPDATE_TIMESTAMP TIMESTAMP (6),
+                          UPDATED_BY VARCHAR2(30 CHAR),
+                          CREATE_MODULE VARCHAR2(256 CHAR) DEFAULT '0' NOT NULL,
+                          UPDATE_MODULE VARCHAR2(256 CHAR),
+                          PRIMARY KEY(ORDER_ID),
+                          FOREIGN KEY (CUSTOMER_ID) REFERENCES CUSTOMERS (CUSTOMER_ID));
+INSERT INTO ORDERS (CUSTOMER_ID, AMOUNT, PURCHASE_DATE, CREATED_BY) VALUES
+('1', '54.35', systimestamp - 15, 'EX123'),
+('1', '345.34', systimestamp - 100, 'EX123'),
+('1', '0', systimestamp - 43, 'EX123'),
+('1', '145.80', systimestamp - 16, 'EX123'),
+('1', '213.3', systimestamp - 40, 'EX123'),
+('1', '65.3', systimestamp - 42, 'EX123'),
+('1', '200', systimestamp - 75, 'EX123'),
+('2', '33.3', systimestamp - 5, 'EX123'),
+('2', '145', systimestamp ,'EX123'),
+('3', '65', systimestamp ,'EX123');
+
+

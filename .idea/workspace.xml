@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55506d9b-a77c-4a6e-a838-e8a53308324a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="121" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="srujan-costco" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\practice\repo" />
+        <option name="userSettingsFile" value="C:\Users\e765pp\Desktop\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1apAe1I8UlcndrtVvWyFw8R6g0j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.srujan.retail.service" />
+      <recent name="com.srujan.retail.adapter" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.srujan.retail.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srujan.retail.model.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\practice\projects\costco\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CustomerRewards">
+    <configuration name="CustomerAdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="srujan-retail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srujan.retail.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.srujan.retail.adapter" />
+      <option name="MAIN_CLASS_NAME" value="com.srujan.retail.adapter.CustomerAdapterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderAdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="srujan-retail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srujan.retail.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.srujan.retail.adapter" />
+      <option name="MAIN_CLASS_NAME" value="com.srujan.retail.adapter.OrderAdapterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderAdapterTest.convert_whenOrderEntityIsEmpty_ThanOrderIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="srujan-retail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srujan.retail.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.srujan.retail.adapter" />
+      <option name="MAIN_CLASS_NAME" value="com.srujan.retail.adapter.OrderAdapterTest" />
+      <option name="METHOD_NAME" value="convert_whenOrderEntityIsEmpty_ThanOrderIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RewardsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="srujan-retail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srujan.retail.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.srujan.retail.service" />
+      <option name="MAIN_CLASS_NAME" value="com.srujan.retail.service.RewardsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RewardsServiceTest.findByOrderId_WhenOrderValueIs60_Than10PointsAreReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="srujan-retail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srujan.retail.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.srujan.retail.service" />
+      <option name="MAIN_CLASS_NAME" value="com.srujan.retail.service.RewardsServiceTest" />
+      <option name="METHOD_NAME" value="findByOrderId_WhenOrderValueIs60_Than10PointsAreReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerRewards" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="srujan-retail" />
+      <extension name="coverage" runner="jacoco" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.srujan.retail.CustomerRewards" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CustomerAdapterTest" />
+      <item itemvalue="JUnit.OrderAdapterTest.convert_whenOrderEntityIsEmpty_ThanOrderIsEmpty" />
+      <item itemvalue="JUnit.OrderAdapterTest" />
+      <item itemvalue="JUnit.RewardsServiceTest.findByOrderId_WhenOrderValueIs60_Than10PointsAreReturned" />
+      <item itemvalue="JUnit.RewardsServiceTest" />
+      <item itemvalue="Spring Boot.CustomerRewards" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RewardsServiceTest" />
+        <item itemvalue="JUnit.RewardsServiceTest.findByOrderId_WhenOrderValueIs60_Than10PointsAreReturned" />
+        <item itemvalue="JUnit.OrderAdapterTest" />
+        <item itemvalue="JUnit.OrderAdapterTest.convert_whenOrderEntityIsEmpty_ThanOrderIsEmpty" />
+        <item itemvalue="JUnit.CustomerAdapterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55506d9b-a77c-4a6e-a838-e8a53308324a" name="Default Changelist" comment="" />
+      <created>1587422252857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587422252857</updated>
+      <workItem from="1587422260692" duration="15741000" />
+      <workItem from="1587483945893" duration="1547000" />
+      <workItem from="1587689221619" duration="27152000" />
+      <workItem from="1587819264730" duration="24465000" />
+      <workItem from="1587854924178" duration="15789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Assign_Data_Sources" timestamp="1587704576935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1587704576935" />
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587960081978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587960081978" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587937217472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1587937217472" />
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587818947392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1587818947391" />
+    <state x="571" y="281" width="393" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587707867127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="281" width="393" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1587707867127" />
+    <state x="271" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587853315876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1587853315876" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587689366425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587689366425" />
+    <state x="524" y="119" width="921" height="586" key="#xdebugger.evaluate" timestamp="1587958134788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="119" width="921" height="586" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587958134788" />
+    <state width="863" height="466" key="DebuggerActiveHint" timestamp="1587958941847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="863" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1587958941847" />
+    <state x="548" y="169" key="FileChooserDialogImpl" timestamp="1587422330740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587422330740" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1587961051735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587746362681" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587961051735" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1587961051734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587746362680" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587961051734" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1587961051734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587746362677" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587961051734" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1587961051735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587746362681" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587961051735" />
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom" timestamp="1587961051735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571012" />
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587961051735" />
+    <state width="1493" height="214" key="GridCell.Tab.1.center" timestamp="1587961051735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571012" />
+    <state width="1493" height="214" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587961051735" />
+    <state width="1493" height="214" key="GridCell.Tab.1.left" timestamp="1587961051735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571012" />
+    <state width="1493" height="214" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587961051735" />
+    <state width="1493" height="214" key="GridCell.Tab.1.right" timestamp="1587961051735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571012" />
+    <state width="1493" height="214" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587961051735" />
+    <state width="1493" height="321" key="GridCell.Tab.2.bottom" timestamp="1587959787910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571013" />
+    <state width="1493" height="321" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587959787910" />
+    <state width="1493" height="321" key="GridCell.Tab.2.center" timestamp="1587959787910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571012" />
+    <state width="1493" height="321" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1587959787910" />
+    <state width="1493" height="321" key="GridCell.Tab.2.left" timestamp="1587959787910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571012" />
+    <state width="1493" height="321" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1587959787910" />
+    <state width="1493" height="321" key="GridCell.Tab.2.right" timestamp="1587959787910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587736571013" />
+    <state width="1493" height="321" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1587959787910" />
+    <state x="279" y="57" key="SettingsEditor" timestamp="1587960113738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587960113738" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587954964223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1587954964223" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587958634367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1587958634367" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1587820342283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587820342283" />
+    <state x="540" y="144" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587954770878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="144" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1587954770878" />
+    <state x="499" y="174" key="extract.method.dialog" timestamp="1587937010386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587744085772" />
+    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587937010386" />
+    <state x="474" y="168" width="711" height="546" key="find.popup" timestamp="1587954222177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="168" width="711" height="546" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587954222177" />
+    <state x="209" y="38" key="new project wizard" timestamp="1587521587004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587521587004" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587757958547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587757958547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/srujan/retail/controller/OrderController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/srujan/retail/model/dao/AuditEntityListener.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/srujan/retail/service/OrderService.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/srujan_costco$CustomerAdapterTest.ic" NAME="CustomerAdapterTest Coverage Results" MODIFIED="1587951620774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.srujan.retail.adapter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/srujan_costco$OrderAdapterTest.ic" NAME="OrderAdapterTest Coverage Results" MODIFIED="1587954114766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.srujan.retail.adapter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/srujan_costco$RewardsServiceTest.ic" NAME="RewardsServiceTest Coverage Results" MODIFIED="1587956175926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.srujan.retail.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
